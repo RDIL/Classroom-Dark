@@ -1,0 +1,19 @@
+body, nav {
+    background-color: #24292e !important;
+}
+
+nav svg path {
+    color: white;
+}
+
+a, h1 a {
+    color: white !important;
+}
+
+div[role="menu"] svg path {
+    color: #24292e;
+}
+
+li a {
+    color: inherit !important;
+}
