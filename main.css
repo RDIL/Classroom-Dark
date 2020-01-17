@@ -1,19 +1,74 @@
+/*
+ * Under the MIT License.
+ * See https://github.com/rdilweb/Classroom-Dark/blob/master/LICENSE
+ */
+
+/*
+ * Make the background dark.
+ */
 body, nav {
     background-color: #24292e !important;
 }
 
+/*
+ * Make the icons on the top navigation white for contrast.
+ */
 nav svg path {
     color: white;
 }
 
-a, h1 a {
+/*
+ * Make the word "Classroom" next to the logo white.
+ */
+a, h1 span {
     color: white !important;
 }
 
+/*
+ * Dark icons on the sidebar.
+ */
 div[role="menu"] svg path {
-    color: #24292e;
+    color: #585858;
 }
 
+/*
+ * Fix certian colors being overrided.
+ */
 li a {
     color: inherit !important;
+}
+
+/*
+ * Make text on the (now dark) cards on the homepage visible easily.
+ */
+.jJIbcc {
+    color: white !important;
+}
+
+/*
+ * For the pop-out sidebar.
+ */
+.ETRkCe .YVvGBb {
+    color: darkblue;
+}
+
+/*
+ * Each "card" element on the homepage.
+ */
+.Aopndd *, .K6Ovqd {
+    color: white;
+}
+
+/*
+ * Assignment details screen text.
+ */
+.lziZub, .jlVFDe, span .VMvujb {
+    color: white !important;
+}
+
+/*
+ * Assignment blocks on the todo list.
+ */
+div[data-stream-item-type="assignment"] .YVvGBb {
+    color: #24292e !important;
 }
