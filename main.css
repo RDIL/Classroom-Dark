@@ -65,3 +65,10 @@ li a {
 div[data-stream-item-type="assignment"] .YVvGBb {
     color: #24292e !important;
 }
+
+/*
+ * The topics tabs on the classwork screen
+ */
+aside[role=complimentry] div ul[guidedhelpid=topicSidebarGH] li {
+    color: white;
+}
