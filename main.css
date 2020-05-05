@@ -74,8 +74,8 @@ aside[role=complimentry] div ul[guidedhelpid=topicSidebarGH] li {
 }
 
 /*
- * Upcoming assignments aside element next to stream.
+ * Upcoming box on the stream.
  */
-.hrUpcomingAssignmentGroup a {
-    color: black !important;
+.lziZub.sdDCme {
+    color: #24292e !important;
 }
