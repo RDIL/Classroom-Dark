@@ -79,3 +79,38 @@ aside[role=complimentry] div ul[guidedhelpid=topicSidebarGH] li {
 .lziZub.sdDCme {
     color: #24292e !important;
 }
+
+/*
+ * People page - text.
+ */
+.sCv5Q, .asQXV {
+    color: white !important;
+}
+
+/*
+ * People page - text.
+ */
+.FdiTFb, .A6dC2c {
+    color: white !important;
+}
+
+/*
+ * Calendar - dropdown.
+ */
+.vRMGwf, .oJeWuf {
+    color: grey !important;
+}
+
+/*
+ * Calendar - page text.
+ */
+.l7z6cd, .Evt7cb {
+    color: grey !important;
+}
+
+/*
+ * Stream - "announce something to your class" bar.
+ */
+div[guidedhelpid=courseInlineCreatorGH] {
+    background-color: white !important;
+}
