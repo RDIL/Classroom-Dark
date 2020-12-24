@@ -1,7 +1,14 @@
-/*
- * Under the MIT License.
- * See https://github.com/rdilweb/Classroom-Dark/blob/master/LICENSE
- */
+/* ==UserStyle==
+@name        Classroom Dark
+@description Dark theme for classroom.google.com
+@namespace   Classroom Dark
+@version     1.0.0
+@author      RDIL
+@homepageURL https://github.com/rdilweb/Classroom-Dark
+@updateURL   https://raw.githubusercontent.com/rdilweb/Classroom-Dark/master/classroom-main.user.css
+@supportURL  https://github.com/rdilweb/Classroom-Dark/issues
+@license     MIT
+==/UserStyle== */
 
 /*
  * Make the background dark.
