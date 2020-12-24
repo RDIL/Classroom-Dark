@@ -2,7 +2,7 @@
 
 A Google Classroom dark theme.
 
-> **NOTE!: This is still experimental** and has a number of bugs and inconsistancies in the styling, especially on the teacher end.
+> **NOTE!: This is still experimental** and has a number of bugs and inconsistencies in the styling, especially on the teacher end.
 > It is primarily built to work for _students_.
 
 ## Usage
